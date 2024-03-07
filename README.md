@@ -19,8 +19,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beatriz-bastos-b78b1325a/) 
 
-![Snake animation](https://github.com/BeatrizBastosBorges/BeatrizBastosBorge/blob/output/github-contribution-grid-snake.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BeatrizBastosBorges&icon=9&color=6)](https://visitcount.itsvg.in)
 
