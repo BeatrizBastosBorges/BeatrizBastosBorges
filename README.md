@@ -15,8 +15,8 @@
 ![](assets/2.png)  
 
 <div align="center"> 
- 
-![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
