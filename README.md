@@ -11,15 +11,15 @@
 <br/>
 
 # 💻 GitHub Stats:   
-![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
 
 # 💻 Tech Stack:
 
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBastosBorges&layout=compact&langs_counts=16&theme=dracula&hide_border=true" alt="Github stats"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBastosBorges&layout=compact&langs_counts=16&theme=shadow_red&hide_border=true" alt="Github stats"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,nodejs,express,mongodb,mysql,github,git,cs,dotnet,cpp,visualstudio,vscode,git,github,java,postman&perline=7&theme=light" alt="GitHub Streak"/>
