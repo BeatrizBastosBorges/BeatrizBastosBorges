@@ -1,3 +1,5 @@
+![](assets/1.png)
+
 # ✨ Sobre Mim:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
@@ -8,14 +10,20 @@
  
   </div>
 </div>
-<br/>
+<br/><br/>
 
-# 💻 GitHub Stats:   
+<div>
+  
+![](assets/2.png)   
 ![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)
 
-# 💻 Tech Stack:
+</div>
+<br/><br/>
 
+<div>
+  
+![](assets/3.png)
 <table>
   <tr>
     <td>
@@ -25,9 +33,12 @@
       <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,nodejs,express,mongodb,mysql,github,git,cs,dotnet,cpp,visualstudio,vscode,git,github,java,postman&perline=7&theme=light" alt="GitHub Streak"/>
     </td>
   </tr>
-</table>
+</table> 
 
-## 🌐 Socials:
+</div>
+<br/><br/>
+
+![](assets/4.png)
 <div>
   <a href = "mailto:biaborges.estudante@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-bastos-b78b1325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
