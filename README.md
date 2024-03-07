@@ -1,6 +1,6 @@
 ![](assets/1.png)
 
-# ✨ Sobre Mim:
+# About me:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
     
