@@ -12,16 +12,17 @@
 </div>
 <br/><br/>
 
-<div>
-  
-![](assets/2.png)   
+![](assets/2.png)  
+
+<div align="center"> 
+ 
 ![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 <br/><br/>
 
-<div>
+<div align="center">
   
 ![](assets/3.png)
 <table>
@@ -39,7 +40,8 @@
 <br/><br/>
 
 ![](assets/4.png)
-<div>
+
+<div align="center">
   <a href = "mailto:biaborges.estudante@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-bastos-b78b1325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
