@@ -31,7 +31,7 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBastosBorges&layout=compact&langs_counts=16&count_private=true&theme=shadow_red&hide_border=true" alt="Github stats"/>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,nodejs,express,mongodb,mysql,github,git,cs,dotnet,cpp,visualstudio,vscode,java,postman&perline=5&theme=light" alt="GitHub Streak"/>
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,mongodb,mysql,github,git,cs,dotnet,cpp,visualstudio,vscode,java,postman&perline=5&theme=dark" alt="GitHub Streak"/>
     </td>
   </tr>
 </table> 
