@@ -2,7 +2,7 @@
 
 # About me:
 >
-> :computer: Software Developer with ability to learn and collaborate in rapidly changing environments and compositions. Passion for to tackle web development/design challenges to achieve lasting impacts on user experience.
+> :computer: Software Developer with ability to learn and collaborate in rapidly changing environments and compositions. Passion for tackling web development/design challenges to achieve lasting impacts on user experience.
 > <br>
 > <br>
 > :triangular_flag_on_post: From Brazil - São Paulo
