@@ -4,9 +4,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
     
-- Tenho 20 anos e sou uma entusiasta da programação. Concluí o curso técnico em Informática pelo IFSP - Campus Cubatão e atualmente estou cursando Análise e Desenvolvimento de Sistemas no mesmo instituto.
-- Estou em busca de oportunidades para aplicar e ampliar meus conhecimentos em programação e desenvolvimento de software.
-- Meu objetivo é contribuir em projetos desafiadores, absorver conhecimento com profissionais experientes e agregar valor para a equipe e a organização, visando o sucesso coletivo.
+- Software Developer with ability to learn and collaborate in rapidly changing environments and compositions. Passion for to tackle web development/design challenges to achieve lasting impacts on user experience.
  
   </div>
 </div>
