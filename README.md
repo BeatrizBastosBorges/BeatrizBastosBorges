@@ -1,13 +1,16 @@
 ![](assets/1.png)
 
 # About me:
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="text-align: left; margin-right: 50px;">
-    
-- Software Developer with ability to learn and collaborate in rapidly changing environments and compositions. Passion for to tackle web development/design challenges to achieve lasting impacts on user experience.
- 
-  </div>
-</div>
+>
+> :computer: Software Developer with ability to learn and collaborate in rapidly changing environments and compositions. Passion for to tackle web development/design challenges to achieve lasting impacts on user experience.
+> <br>
+> <br>
+> :triangular_flag_on_post: From Brazil - São Paulo
+> <br>
+> <br>
+> :books: Fluent in English and Portuguese.
+>
+
 <br/><br/>
 
 ![](assets/2.png)  
