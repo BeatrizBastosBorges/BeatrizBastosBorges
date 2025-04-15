@@ -1,0 +1,25 @@
+name: generate-snake-game-from-github-contribution-grid
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: "BeatrizBastosBorges"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dark.svg?palette=github-dark&color_snake=blue
+            light.svg?color_snake=#7845ab
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
