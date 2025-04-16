@@ -14,6 +14,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.3.0
         with:
