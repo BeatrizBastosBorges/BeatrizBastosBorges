@@ -35,7 +35,13 @@
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,mongodb,mysql,cs,dotnet,cpp,java,php,visualstudio,vscode,postman,github,git,react,vue,nuxtjs,py,figma,bootstrap&perline=5&theme=dark" alt="GitHub Streak"/>
     </td>
   </tr>
-</table> 
+</table>
+
+<picture>
+  <source srcset="dist/dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="dist/light.svg" media="(prefers-color-scheme: light)">
+  <img src="dist/light.svg" alt="Snake Game">
+</picture>
 
 </div>
 <br/><br/>
