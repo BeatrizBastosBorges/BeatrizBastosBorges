@@ -23,7 +23,7 @@ jobs:
           github_user_name: "BeatrizBastosBorges"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/dark.svg?palette=github-dark&color_snake=#d79401
+            dist/dark.svg?palette=github-dark&color_snake=#d70401
             dist/light.svg?color_snake=#d70401
 
       - name: Commit changes
