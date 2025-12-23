@@ -17,8 +17,8 @@
 
 <div align="center"> 
 
-![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=shadow_red&hide_border=true&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BeatrizBastosBorges&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=BeatrizBastosBorges&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=BeatrizBastosBorges&theme=tokyonight&hide_border=true)
 
 </div>
 <br/><br/>
@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBastosBorges&layout=compact&langs_counts=16&count_private=true&theme=shadow_red&hide_border=true" alt="Github stats"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBastosBorges&layout=compact&langs_counts=16&count_private=true&theme=tokyonight&hide_border=true" alt="Github stats"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,mongodb,mysql,cs,dotnet,cpp,java,php,visualstudio,vscode,postman,github,git,react,vue,nuxtjs,py,figma,bootstrap&perline=5&theme=dark" alt="GitHub Streak"/>
