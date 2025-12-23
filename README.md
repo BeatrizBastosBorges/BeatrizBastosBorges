@@ -1,4 +1,4 @@
-![](assets/5.png)
+![](assets/1.png)
 
 # About me:
 >
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-![](assets/6.png)  
+![](assets/2.png)  
 
 <div align="center"> 
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   
-![](assets/7.png)
+![](assets/3.png)
 <table>
   <tr>
     <td>
@@ -46,7 +46,7 @@
 </div>
 <br/><br/>
 
-![](assets/8.png)
+![](assets/4.png)
 
 <div align="center">
   <a href = "mailto:biaborges.estudante@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
